@@ -21,16 +21,16 @@ Tłumaczenie obejmuje 1543 wpisy lokalizacyjne. Polski został dodany jako osobn
 ## 📷 Zrzuty ekranu
 
 <p align="center">
-  <img src="screenshots/606160_20260816183031_1.png" alt="ROUTINE — zrzut ekranu 1" width="48%">
-  <img src="screenshots/606160_20260816183051_1.png" alt="ROUTINE — zrzut ekranu 2" width="48%">
+  <img src="screenshots/02-document-translation.png" alt="ROUTINE — zrzut ekranu 2" width="48%">
+  <img src="screenshots/03-terminal-email.png" alt="ROUTINE — zrzut ekranu 3" width="48%">
 </p>
 <p align="center">
-  <img src="screenshots/606160_20260816183118_1.png" alt="ROUTINE — zrzut ekranu 3" width="48%">
-  <img src="screenshots/606160_20260816183149_1.png" alt="ROUTINE — zrzut ekranu 4" width="48%">
+  <img src="screenshots/04-birth-area.png" alt="ROUTINE — zrzut ekranu 4" width="48%">
+  <img src="screenshots/05-safety-notice.png" alt="ROUTINE — zrzut ekranu 5" width="48%">
 </p>
 <p align="center">
-  <img src="screenshots/606160_20260816183443_1.png" alt="ROUTINE — zrzut ekranu 5" width="48%">
-  <img src="screenshots/606160_20260816183552_1.png" alt="ROUTINE — zrzut ekranu 6" width="48%">
+  <img src="screenshots/06-union-plaza.png" alt="ROUTINE — zrzut ekranu 6" width="48%">
+  <img src="screenshots/01-cat-tutorial.png" alt="ROUTINE — zrzut ekranu 1" width="48%">
 </p>
 
 ## 📋 Zawartość tłumaczenia
