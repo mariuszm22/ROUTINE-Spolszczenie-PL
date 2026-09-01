@@ -16,7 +16,7 @@ Tłumaczenie obejmuje 1543 wpisy lokalizacyjne. Polski został dodany jako osobn
 
 Dostępne są dwie metody instalacji:
 
-- **EXE** — automatyczny instalator marko22
+- **EXE** — automatyczny instalator marko22 (zalecany)
 - **ZIP** — instalacja ręczna
 
 ➡️ [Pobierz najnowszą wersję](https://github.com/mariuszm22/ROUTINE-Spolszczenie-PL/releases/latest)
@@ -29,14 +29,18 @@ Dostępne są dwie metody instalacji:
   <img src="screenshots/02-document-translation.png" alt="ROUTINE — zrzut ekranu 2" width="48%">
   <img src="screenshots/03-terminal-email.png" alt="ROUTINE — zrzut ekranu 3" width="48%">
 </p>
+
 <p align="center">
   <img src="screenshots/04-birth-area.png" alt="ROUTINE — zrzut ekranu 4" width="48%">
   <img src="screenshots/05-safety-notice.png" alt="ROUTINE — zrzut ekranu 5" width="48%">
 </p>
+
 <p align="center">
   <img src="screenshots/06-union-plaza.png" alt="ROUTINE — zrzut ekranu 6" width="48%">
   <img src="screenshots/01-cat-tutorial.png" alt="ROUTINE — zrzut ekranu 1" width="48%">
 </p>
+
+---
 
 ## 📋 Zawartość tłumaczenia
 
@@ -50,26 +54,42 @@ Spolszczenie obejmuje:
 - nazwy lokacji,
 - pozostałe teksty lokalizacyjne zawarte w LOCRES.
 
+---
+
 ## ⚙️ Instalacja
 
-Spolszczenie można zainstalować automatycznie za pomocą instalatora EXE lub ręcznie z archiwum ZIP.
+### 🖥️ Instalator automatyczny — EXE (zalecany)
 
-### 🖥️ Instalator automatyczny — EXE
-
-1. Pobierz `marko22-Instalator-ROUTINE-v1.exe` z sekcji Releases.
+1. Pobierz `marko22-Instalator-ROUTINE-v1.exe` z sekcji **Releases**.
 2. Uruchom instalator.
-3. Wskaż katalog gry ROUTINE, jeśli nie zostanie wykryty automatycznie.
-4. Postępuj zgodnie z instrukcjami instalatora.
-5. Uruchom grę.
-6. Jeśli gra nie uruchomi się w języku polskim, wejdź w ustawienia języka i wybierz **Polski**.
+3. Instalator automatycznie wykryje grę i sprawdzi zgodność wersji.
+4. Jeżeli gra nie zostanie wykryta automatycznie, wskaż jej katalog ręcznie.
+5. Postępuj zgodnie z instrukcjami instalatora.
+6. Uruchom grę.
+
+Jeśli gra nie uruchomi się po polsku, wybierz **język Polski** w ustawieniach.
 
 ### 📦 Instalacja ręczna — ZIP
 
-1. Pobierz `ROUTINE_PL_v1.0.0.zip` z sekcji Releases.
+1. Pobierz `ROUTINE_PL_v1.0.0.zip` z sekcji **Releases**.
 2. Wypakuj archiwum.
-3. Skopiuj plik `ROUTINE_PL_v1.0.0.pak` do `...\Routine\Routine\Content\Paks\`.
+3. Skopiuj plik:
+
+   ```
+   ROUTINE_PL_v1.0.0.pak
+   ```
+
+   do katalogu:
+
+   ```
+   ...\Routine\Routine\Content\Paks\
+   ```
+
 4. Uruchom grę.
-5. Wejdź w ustawienia języka i wybierz **Polski**.
+
+Jeśli gra nie uruchomi się po polsku, wybierz **język Polski** w ustawieniach.
+
+---
 
 ## 🗑️ Deinstalacja
 
@@ -79,24 +99,46 @@ Uruchom ponownie `marko22-Instalator-ROUTINE-v1.exe` i wybierz opcję **Odinstal
 
 ### 📦 Spolszczenie zainstalowane ręcznie z ZIP
 
-Usuń plik `ROUTINE_PL_v1.0.0.pak` z katalogu:
+Usuń plik:
 
-`...\Routine\Routine\Content\Paks\`
+```
+ROUTINE_PL_v1.0.0.pak
+```
+
+z katalogu:
+
+```
+...\Routine\Routine\Content\Paks\
+```
+
+---
 
 ## 🐞 Zgłaszanie błędów
 
 Błędy tłumaczenia można zgłaszać przez [GitHub Issues](https://github.com/mariuszm22/ROUTINE-Spolszczenie-PL/issues).
 
+Najlepiej dołączyć:
+
+- zrzut ekranu,
+- opis miejsca występowania błędu,
+- tekst lub sytuację, której dotyczy problem.
+
+---
+
 ## ☕ Dobrowolne wsparcie
 
-Jeżeli projekt okazał się pomocny i chcesz wesprzeć jego dalszy rozwój, możesz postawić mi kawę:
+Jeżeli chcesz dobrowolnie wesprzeć dalszy rozwój projektów marko22:
 
 ➡️ [PayPal](https://paypal.me/mariuszm22)
 
-Wsparcie jest całkowicie dobrowolne.
+Wsparcie projektu jest całkowicie dobrowolne.
+
+---
 
 ## ⚠️ Informacja
 
 Projekt jest nieoficjalnym fanowskim tłumaczeniem i nie jest powiązany z twórcami ani wydawcą ROUTINE.
+
+---
 
 ## 🎮 Miłej gry!
