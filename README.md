@@ -21,6 +21,12 @@ Dostępne są dwie metody instalacji:
 
 ➡️ [Pobierz najnowszą wersję](https://github.com/mariuszm22/ROUTINE-Spolszczenie-PL/releases/latest)
 
+## Windows SmartScreen / instalator EXE
+
+Windows może wyświetlić ostrzeżenie SmartScreen, ponieważ instalator EXE nie posiada komercyjnego podpisu cyfrowego. Komunikat ten nie oznacza automatycznie wykrycia wirusa. Finalny instalator ROUTINE nie ma jeszcze gotowego publicznego raportu; możesz sprawdzić plik samodzielnie w [VirusTotal](https://www.virustotal.com/gui/home/upload). Jeśli nie chcesz uruchamiać EXE, dostępna jest również wersja ZIP do instalacji ręcznej.
+
+**SmartScreen:** kliknij **„Więcej informacji”**, a następnie **„Uruchom mimo to”**.
+
 ---
 
 ## 📷 Zrzuty ekranu
